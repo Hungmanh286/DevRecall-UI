@@ -1,0 +1,6 @@
+{
+  "name": "PrepInterview",
+  "description": "Hệ thống ôn luyện lập trình phỏng vấn chuyên nghiệp tích hợp Spaced Repetition (lặp lại ngắt quãng) và đánh giá code AI thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
